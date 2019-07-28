@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;IACI,sCAAsC;IACtC,cAAc;IACd,eAAe;AACnB","file":"src.e31bb0bc.css","sourceRoot":"../src","sourcesContent":[".app {\n    font-family:--apple-system, sans-serif;\n    font-size:18px;\n    line-height:1.8;\n}"]}
